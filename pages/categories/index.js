@@ -1,4 +1,4 @@
-import CategoriesPage from "../../components/templates/categoriesPage";
+import CategoriesPage from "../../components/templates/CategoriesPage";
 
 function Categories({ data }) {
   return <CategoriesPage data={data} />;
